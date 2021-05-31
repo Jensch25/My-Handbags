@@ -65,7 +65,7 @@ function App() {
           <footer>
               <Tile
                   title={"THE BRAND"}
-                  text0={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ad dolore dolorem dolorum eos explicabo harum id incidunt maiores nisi numquam odio odit officia possimus, quibusdam temporibus unde veniam, veritatis."}
+                  text={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ad dolore dolorem dolorum eos explicabo harum id incidunt maiores nisi numquam odio odit officia possimus, quibusdam temporibus unde veniam, veritatis."}
                   text1={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae, corporis cum debitis distinctio dolorum ducimus earum, enim ex in natus repellat sed soluta. Accusamus asperiores dolorum laboriosam perferendis rerum."}
                   image={""}
                   />

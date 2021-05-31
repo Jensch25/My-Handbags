@@ -6,6 +6,7 @@ function Tile(props) {
         <section>
             <h2> {props.title} </h2>
             <p> {props.text} </p>
+            <p> {props.text1} </p>
             <img src={props.image} alt={""}/>
         </section>
 

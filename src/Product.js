@@ -9,8 +9,6 @@ function Product(props) {
                 <p>{props.title}</p>
                 <h4>€{props.price},-</h4>
             </article>
-
-
     );
 }
 
